@@ -678,6 +678,7 @@ typing.
 * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 * [Git is a Directed Acyclic Graph and What the Heck Does That Mean?](https://medium.com/girl-writes-code/git-is-a-directed-acyclic-graph-and-what-the-heck-does-that-mean-b6c8dec65059)
 * [4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 * [Oh shit, git!](https://wizardzines.com/zines/oh-shit-git/)
 * [What is version control: centralized vs. DVCS](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
 
