@@ -628,62 +628,6 @@ with an entirely new line). Then you're ready for the typical process
 (`git add`, `git commit`, `git push origin new-feature`).
 
 
-## Lab
-
-### Objective
-
-* I want your help!
-* Let's improve this documentation together.
-
-### Process
-
-We'll be following the
-[GitHub Flow](https://guides.github.com/introduction/flow/) approach
-to collaboration.
-
-### Decide where to contribute (step 1 of 5)
-
-* Browse through the documentation and determine where you'd like to
-  help.
-  
-* I need help with: typos, writing, formatting, and content.
-
-* Pick something small you can complete in a few minutes.
-
-### Installation (step 2 of 5)
-
-Go to [my GitHub
-repository](https://github.com/hbs-rcs/reproducible-research) and
-follow the Installation instructions.
-
-(Notice that those instructions involve forking my repository and
-using `git clone` to set up a local copy on your computer)
-
-### Edit the documentation locally (step 3 of 5)
-
-1. Use `git branch` to create a branch to experiment on.
-
-2. Use `git checkout` to switch to your new branch.
-
-3. Make your edits.
-
-4. Use `git add` and `git commit` to commit those edits to your
-   branch.
-   
-### Create a pull request (step 4 of 5)
-
-1. Use `git push` to push your branch up to GitHub.
-
-2. Open a Pull Request on GitHub.
-
-### I respond to your pull request (step 5 of 5)
-
-I will either:
-
-* comment on your pull request, and/or
-
-* merge it into `master`.
-
 ## Additional Tools
 
 ### RStudio integration
